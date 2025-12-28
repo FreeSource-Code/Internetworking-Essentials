@@ -7,4 +7,4 @@
 -Only see if communication is successful or not.
 
 <img src="Screenshot 2025-12-28 233138.png">
-<img src="Screenshot 2025-12-28 2331350.png">
+<img src="Screenshot 2025-12-28 233150.png">
